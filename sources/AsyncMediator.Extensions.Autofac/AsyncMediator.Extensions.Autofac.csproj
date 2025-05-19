@@ -6,8 +6,8 @@
         <Version>1.0.0</Version>
         <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
         <RepositoryType>git</RepositoryType>
-        <PackageProjectUrl>https://github.com/lastunicorn/AsyncMediator.Extensions.DependencyInjection</PackageProjectUrl>
-        <RepositoryUrl>https://github.com/lastunicorn/AsyncMediator.Extensions.DependencyInjection</RepositoryUrl>
+        <PackageProjectUrl>https://github.com/lastunicorn/AsyncMediator.Extensions.Autofac</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/lastunicorn/AsyncMediator.Extensions.Autofac</RepositoryUrl>
         <PackageReadmeFile>README.md</PackageReadmeFile>
         <PackageLicenseFile>LICENSE</PackageLicenseFile>
     </PropertyGroup>
