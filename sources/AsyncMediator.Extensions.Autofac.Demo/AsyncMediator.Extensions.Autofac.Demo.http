@@ -1,0 +1,6 @@
+@AsyncMediator.Extensions.Autofac.Demo_HostAddress = http://localhost:5173
+
+GET {{AsyncMediator.Extensions.Autofac.Demo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

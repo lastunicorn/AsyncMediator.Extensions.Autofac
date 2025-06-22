@@ -5,14 +5,8 @@
         <ImplicitUsings>enable</ImplicitUsings>
 
         <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-        <Version>1.1.0</Version>
-        <Authors>Alexandru Iuga</Authors>
-        <Company>Dust in the Wind</Company>
+        
         <Description>Setup helpers for configuring AsyncMediator with Autofac.</Description>
-        <PackageProjectUrl>https://github.com/lastunicorn/AsyncMediator.Extensions.Autofac</PackageProjectUrl>
-
-        <RepositoryType>git</RepositoryType>
-        <RepositoryUrl>https://github.com/lastunicorn/AsyncMediator.Extensions.Autofac</RepositoryUrl>
 
         <PackageReadmeFile>README.md</PackageReadmeFile>
         <PackageLicenseFile>LICENSE</PackageLicenseFile>
